@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bable3
-- 👀 I’m interested in web developement in general
-- 🌱 I’m currently learning angular
+- 👀 i'm a angular dev
 
 <!---
 bable3/bable3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
